@@ -1,0 +1,7 @@
+C:\Users\Tanguy\source\repos\GoodPractice\GoodPractice\bin\Debug\GoodPractice.exe.config
+C:\Users\Tanguy\source\repos\GoodPractice\GoodPractice\bin\Debug\GoodPractice.exe
+C:\Users\Tanguy\source\repos\GoodPractice\GoodPractice\bin\Debug\GoodPractice.pdb
+C:\Users\Tanguy\source\repos\GoodPractice\GoodPractice\obj\Debug\GoodPractice.csprojAssemblyReference.cache
+C:\Users\Tanguy\source\repos\GoodPractice\GoodPractice\obj\Debug\GoodPractice.csproj.CoreCompileInputs.cache
+C:\Users\Tanguy\source\repos\GoodPractice\GoodPractice\obj\Debug\GoodPractice.exe
+C:\Users\Tanguy\source\repos\GoodPractice\GoodPractice\obj\Debug\GoodPractice.pdb

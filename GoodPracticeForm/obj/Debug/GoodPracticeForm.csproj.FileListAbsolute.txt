@@ -1,0 +1,10 @@
+C:\Users\Tanguy\source\repos\GoodPractice\GoodPracticeForm\bin\Debug\GoodPracticeForm.exe.config
+C:\Users\Tanguy\source\repos\GoodPractice\GoodPracticeForm\bin\Debug\GoodPracticeForm.exe
+C:\Users\Tanguy\source\repos\GoodPractice\GoodPracticeForm\bin\Debug\GoodPracticeForm.pdb
+C:\Users\Tanguy\source\repos\GoodPractice\GoodPracticeForm\obj\Debug\GoodPracticeForm.csprojAssemblyReference.cache
+C:\Users\Tanguy\source\repos\GoodPractice\GoodPracticeForm\obj\Debug\GoodPracticeForm.MainForm.resources
+C:\Users\Tanguy\source\repos\GoodPractice\GoodPracticeForm\obj\Debug\GoodPracticeForm.Properties.Resources.resources
+C:\Users\Tanguy\source\repos\GoodPractice\GoodPracticeForm\obj\Debug\GoodPracticeForm.csproj.GenerateResource.cache
+C:\Users\Tanguy\source\repos\GoodPractice\GoodPracticeForm\obj\Debug\GoodPracticeForm.csproj.CoreCompileInputs.cache
+C:\Users\Tanguy\source\repos\GoodPractice\GoodPracticeForm\obj\Debug\GoodPracticeForm.exe
+C:\Users\Tanguy\source\repos\GoodPractice\GoodPracticeForm\obj\Debug\GoodPracticeForm.pdb
